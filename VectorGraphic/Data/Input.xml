@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <element>
+    <a>-15; -20</a>
+    <b>15; -20,3</b>
+    <c>0; 21</c>
+    <color>127; 255; 0; 255</color>
+    <filled>true</filled>
+    <type>triangle</type>
+  </element>
+  <element>
+    <a>-1,5; 3,4</a>
+    <b>2,2; 5,7</b>
+    <color>127; 255; 255; 255</color>
+    <type>line</type>
+  </element>
+  <element>
+    <center>0; 0</center>
+    <color>127; 255; 0; 0</color>
+    <filled>false</filled>
+    <radius>15.0</radius>
+    <type>circle</type>
+  </element> 
+  <element>
+    <a>5; 5</a>
+    <b>5; -5</b>
+    <c>-10; 5</c>
+    <d>-10; -5</d>
+    <color>127; 0; 0; 255</color>
+    <filled>false</filled>
+    <type>rectangle</type>
+  </element>
+</root>

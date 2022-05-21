@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jhFa9XXpAbMHPIpruAr0JbxY/WspjgbwtpvxJysZOyeIllWDd16z227XYeygmrDxHVTjM8rqO34MML9EoRoX8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELAHE\\source\\repos\\VectorGraphic\\VectorGraphic1\\VectorGraphic\\VectorGraphic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELAHE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
